@@ -1,1 +1,2 @@
 # RockPaperScissors
+![img alt](https://github.com/AneenaJ28/RockPaperScissors/blob/b1537d2911ee0c7a434208b9c442a9b9b8f1df58/rock.png)
